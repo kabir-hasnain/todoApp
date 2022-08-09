@@ -1,17 +1,18 @@
 * {
   box-sizing: border-box;
-  background-color: #effff5;
 }
 
 .container {
   background: #87d5a9;
   padding: 25px;
-  max-width: 850px;
+  width: 100%;
+  height: 100%;
   margin: 25px auto;
   overflow: hidden;
   border-radius: 10px;
   border: 4px solid #b1c9bb;
   font-family: sans-serif;
+  margin-top: 100px;
 }
 
 h1,
